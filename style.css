@@ -76,6 +76,10 @@ p {
             /* border: 3px dashed red; */
         }
 
+    div.main-qr-card {
+        width: 100%;
+    }
+
     div.qr-card {
         max-width: 100%;
         min-height: 285px;
